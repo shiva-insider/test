@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+    <g:image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/SLG/BROWN/ECCO-Gloves-W/9107255-91042-main.webp</g:image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/SLG/BROWN/ECCO-Gloves-W/9107255-91042-m.webp</g:additional_image_link>
+  </CD>
+  <CD>
+    <TITLE>Hide your heart</TITLE>
+    <ARTIST>Bonnie Tyler</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1988</YEAR>
+    <g:image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-main.webp</g:image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-o.webp</g:additional_image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-m.webp</g:additional_image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-b.webp</g:additional_image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-s.webp</g:additional_image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-outside.webp</g:additional_image_link>
+
+  </CD>
+  <CD>
+    <TITLE>Greatest Hits</TITLE>
+    <ARTIST>Dolly Parton</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1982</YEAR>
+    <g:image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/SLG/BROWN/ECCO-Gloves-W/9107255-91042-main.webp</g:image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/SLG/BROWN/ECCO-Gloves-W/9107255-91042-m.webp</g:additional_image_link>
+    <g:additional_image_link>https://krm-stc.azureedge.net/-/media/Images/Ecco/Products/MENS/BROWN/ECCO-GRAINER-M/214754-01072-o.webp</g:additional_image_link>
+  </CD>
+</CATALOG>
